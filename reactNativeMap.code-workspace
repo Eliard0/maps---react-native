@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "reactNativeMap",
+			"path": "."
+		},
+		{
+			"name": "images",
+			"path": "../../Downloads/images"
+		}
+	],
+	"settings": {}
+}

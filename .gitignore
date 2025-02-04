@@ -24,6 +24,7 @@ DerivedData
 
 # Android/IntelliJ
 #
+android
 build/
 .idea
 .gradle
@@ -56,6 +57,7 @@ yarn-error.log
 *.jsbundle
 
 # Ruby / CocoaPods
+ios
 **/Pods/
 /vendor/bundle/
 
